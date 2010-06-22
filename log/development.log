@@ -54,3 +54,52 @@ Cache incrementing: speed-test (1)
 Cache read: speed-test
 Rendering tester/index
 Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TesterController#index (for 127.0.0.1 at 2010-06-21 18:58:57) [GET]
+Cache incrementing: speed-test (1)
+Cache read: speed-test
+Rendering tester/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TesterController#index (for 127.0.0.1 at 2010-06-21 18:58:58) [GET]
+Cache incrementing: speed-test (1)
+Cache read: speed-test
+Rendering tester/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TesterController#index (for 127.0.0.1 at 2010-06-21 18:58:58) [GET]
+Cache incrementing: speed-test (1)
+Cache read: speed-test
+Rendering tester/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TesterController#index (for 127.0.0.1 at 2010-06-21 18:58:58) [GET]
+Cache incrementing: speed-test (1)
+Cache read: speed-test
+Rendering tester/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TesterController#index (for 127.0.0.1 at 2010-06-21 18:58:58) [GET]
+Cache incrementing: speed-test (1)
+Cache read: speed-test
+Rendering tester/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TesterController#index (for 127.0.0.1 at 2010-06-21 18:58:59) [GET]
+Cache incrementing: speed-test (1)
+Cache read: speed-test
+Rendering tester/index
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TesterController#index (for 127.0.0.1 at 2010-06-21 18:58:59) [GET]
+Cache incrementing: speed-test (1)
+Cache read: speed-test
+Rendering tester/index
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/]
